@@ -11,10 +11,14 @@ import UIKit
 class AppDelegate: UIResponder, UIApplicationDelegate {
    var window: UIWindow?
  func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+   
+   Thread.sleep(forTimeInterval: 2.0)
+   
      let storyboard = UIStoryboard(name: "Main", bundle: nil)
      let controller = storyboard.instantiateViewController(withIdentifier: String(describing: "Welcome1VC")) as? Welcome1VC
      let navigation = UINavigationController(rootViewController: controller!)
      self.window?.rootViewController = navigation
+   
    return true
  }
 
