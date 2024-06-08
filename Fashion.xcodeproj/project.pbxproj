@@ -27,7 +27,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		36AB9A372C12A5AC00259149 /* Falcon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Falcon.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		36AB9A372C12A5AC00259149 /* Fashion.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Fashion.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		36AB9A3A2C12A5AC00259149 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		36AB9A3C2C12A5AC00259149 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		36AB9A3E2C12A5AC00259149 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -70,7 +70,7 @@
 		36AB9A382C12A5AC00259149 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				36AB9A372C12A5AC00259149 /* Falcon.app */,
+				36AB9A372C12A5AC00259149 /* Fashion.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -135,9 +135,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		36AB9A362C12A5AC00259149 /* Falcon */ = {
+		36AB9A362C12A5AC00259149 /* Fashion */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 36AB9A4B2C12A5AD00259149 /* Build configuration list for PBXNativeTarget "Falcon" */;
+			buildConfigurationList = 36AB9A4B2C12A5AD00259149 /* Build configuration list for PBXNativeTarget "Fashion" */;
 			buildPhases = (
 				36AB9A332C12A5AC00259149 /* Sources */,
 				36AB9A342C12A5AC00259149 /* Frameworks */,
@@ -147,9 +147,9 @@
 			);
 			dependencies = (
 			);
-			name = Falcon;
+			name = Fashion;
 			productName = Falcon;
-			productReference = 36AB9A372C12A5AC00259149 /* Falcon.app */;
+			productReference = 36AB9A372C12A5AC00259149 /* Fashion.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -167,7 +167,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 36AB9A322C12A5AC00259149 /* Build configuration list for PBXProject "Falcon" */;
+			buildConfigurationList = 36AB9A322C12A5AC00259149 /* Build configuration list for PBXProject "Fashion" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -180,7 +180,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				36AB9A362C12A5AC00259149 /* Falcon */,
+				36AB9A362C12A5AC00259149 /* Fashion */,
 			);
 		};
 /* End PBXProject section */
@@ -422,7 +422,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		36AB9A322C12A5AC00259149 /* Build configuration list for PBXProject "Falcon" */ = {
+		36AB9A322C12A5AC00259149 /* Build configuration list for PBXProject "Fashion" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				36AB9A492C12A5AD00259149 /* Debug */,
@@ -431,7 +431,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		36AB9A4B2C12A5AD00259149 /* Build configuration list for PBXNativeTarget "Falcon" */ = {
+		36AB9A4B2C12A5AD00259149 /* Build configuration list for PBXNativeTarget "Fashion" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				36AB9A4C2C12A5AD00259149 /* Debug */,
